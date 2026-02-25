@@ -1,2 +1,2 @@
-# Highlighted Projects
+# Highlight Projects
 - None
