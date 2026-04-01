@@ -1,4 +1,4 @@
 # Hello!
 
-Personal Site: ![To Site](jadd-arriola.github.io) (In Progress)
-Linkedin: ![To Linkedin](www.linkedin.com/in/jadd-arriola)
+Personal Site: ![To Site](https://jadd-arriola.github.io) (In Progress)
+Linkedin: ![To Linkedin](https://www.linkedin.com/in/jadd-arriola/)
