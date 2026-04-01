@@ -1,4 +1,5 @@
 # Hello!
+## I'm Jadd, thanks for looking around! :)
 
 Notable Links:
 - <i>(More Projects In Progress)</i>
