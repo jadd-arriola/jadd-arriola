@@ -1,7 +1,5 @@
 # Hello!
-I'm Jadd, thanks for looking around! :)<br>
-
-Notable Links:
+I'm Jadd, thanks for looking around! :)
 - <i>(More Projects In Progress)</i>
 - [To Coursework](https://github.com/jadd-arriola/coursework)
 - [To Linkedin](https://www.linkedin.com/in/jadd-arriola/)
