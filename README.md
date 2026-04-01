@@ -1,5 +1,5 @@
 # Hello!
-## I'm Jadd, thanks for looking around! :)
+I'm Jadd, thanks for looking around! :)<br>
 
 Notable Links:
 - <i>(More Projects In Progress)</i>
